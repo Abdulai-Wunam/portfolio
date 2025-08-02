@@ -23,5 +23,4 @@ I'm Abdulai Wunam, a statistics student at Tamale Technical University and a sel
 - JavaScript *(optional, depending on interactivity)*  
 - (You can add frameworks like Bootstrap, React, or Vue if used)
 
-## 📁 Folder Structure (optional)
 
